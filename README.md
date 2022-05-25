@@ -34,5 +34,7 @@ python3 CollaborativeFilteringCopy.py
 ```
 CollaborativeFilteringCopy.py is directly modified from the Github project: *Collaborative-Filtering* (https://github.com/kevalmorabia97/Collaborative-Filtering).
 
+MovieLens-100K (Harper, F.M. and Konstan, J.A. (2015) The MovieLens Datasets: History and context. ACM Trans. Intract. Intell. Syst., 5(4).)
+
 ## Optimization Problem
 To solve multi-client G-optimal design or its equivalent Determinant Maximizaion subject to multi-constraints, use the function `OptimalExperiment` in minVar.py.
