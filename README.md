@@ -1,5 +1,5 @@
 # Federated-Linear-Contextual-Bandits
-This repository is the official implementation of *Federated Linear Contextual Bandits*.
+This repository is the official implementation of *Huang, R., Wu, W., Yang, J., & Shen, C. (2021). Federated linear contextual bandits. Advances in neural information processing systems, 34, 27057-27068.*
 ## Requirements
 -  Programming language: *Python3*,
 -  Packages *Numpy 1.17.4, Scipy 1.3.2, Pandas 0.25.3*.
